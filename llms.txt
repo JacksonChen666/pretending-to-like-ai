@@ -1,0 +1,5 @@
+NOTE: This file may not be actually used for code "AI".
+
+The website for this (https://llmstxt.org/) seems to suggest it's made for website crawlers, not code "AI".
+
+The "use" of this file was sourced from https://github.com/benbjohnson/litestream/commit/f2d217a6fdcaf7d7fcfafc67b41de4bd93d9ab6d#diff-f43a9e2f7da89777ca234fc2f236252b27a44652586c9514b243e81bf1b19114 which is also spewed by Claude.
